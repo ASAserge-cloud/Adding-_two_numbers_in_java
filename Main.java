@@ -1,7 +1,7 @@
 
 /**This program adds two numbers enter by the use. Source code written by Awunjia Serge Atabong in Buea-cameroon
  on the 17/08/2020, contact me directly at awujiaa2018@gmail.com whatsApp: +237 651565843.
-This is a free and open source sofware(FOSS), feel free to modify accordingly and use.
+This is a free and open source software(FOSS), feel free to modify accordingly and use.
  */
 
 package com.ASAtech;
